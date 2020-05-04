@@ -1,6 +1,6 @@
 <img src="https://github.com/fcantor/Moove/blob/master/web_dynamic/static/styles/images/cow-logo.png" width="160" height=auto />
 
-# Moove: Holberton School End of Year Project
+# Moove: The Travel app that gets you where you need to go
 
 ## Description
 The Project is a travel web application. It pulls data from the Google and Kayak APIs to give the user the cheapest option for a given trip across car, public transit, rental, and flight options.
