@@ -6,14 +6,14 @@
 The Project is a travel web application. It pulls data from the Google and Kayak APIs to give the user the cheapest option for a given trip across car, public transit, rental, and flight options.
 
 ## Table of Contents)
-	* [Description](#description)
-	* [Installation](#installation)
-	* [Environment](#environment)
-	* [Usage](#usage)
-	* [Contributing](#contributing)
-	* [Authors](#authors)
-	* [License](#license)
-	* [Mentors](#mentors)
+* [Description](#description)
+* [Installation](#installation)
+* [Environment](#environment)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [License](#license)
+* [Mentors](#mentors)
 
 ## Installation
 The environment the app was built in is outlined in the section below. Ensure all dependencies are installed in order to run the app smoothly. Setup scripts are currently in development and will be released soon, but for now please just update or install what you need to on your own!
