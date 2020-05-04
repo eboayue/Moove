@@ -5,8 +5,7 @@
 ## Description
 The Project is a travel web application. It pulls data from the Google and Kayak APIs to give the user the cheapest option for a given trip across car, public transit, rental, and flight options.
 
-## Table of Contents
-* [Moove: Holberton School End of Year Project](#moove-holberton-school-end-of-year-project)
+## Table of Contents)
 	* [Description](#description)
 	* [Installation](#installation)
 	* [Environment](#environment)
